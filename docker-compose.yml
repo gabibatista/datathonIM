@@ -1,0 +1,11 @@
+version: '3.7'
+
+services:
+    datathon-dna:
+        restart: "no"
+        container_name: datathon-dna-container
+        build: ./
+        env_file:
+            - .prod.env
+        volumes:
+            - ./src:/usr/src/app
