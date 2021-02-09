@@ -18,7 +18,7 @@ class NavigatePage:
         self.driver.get(url)
         return self
 
-    def get(self, locator):
+    def get_xpath(self, locator):
         try:
             wait = WebDriverWait(self.driver, timeout=WAIT_TIME)
             res = wait.until(EC.presence_of_element_located((By.XPATH, locator)))
@@ -27,6 +27,16 @@ class NavigatePage:
 
         return res
 
+    def get_classname(self, locator):
+        try:
+            wait = WebDriverWait(self.driver, timeout=WAIT_TIME)
+            res = wait.until(EC.presence_of_element_located((By.CLASS_NAME, locator)))
+        except TimeoutException:
+            raise TimeoutException(f'Timeout while wait element: {locator}')
+
+        return res
+
     def access(self, locator):
-        sel = self.get(locator)
+        sel = self.get_classname(locator)
         sel.click()
+        return sel

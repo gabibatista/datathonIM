@@ -5,6 +5,7 @@ Repositório destinado a reunir todos os trabalhos feitos durante o Datathon Int
 
 ```bash
 cd devops/selenium-docker-image && docker build -t dextra.dna/selenium-base:homolog .
+cd ../..
 ```
 
 ## Run

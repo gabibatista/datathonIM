@@ -16,7 +16,8 @@ class BrowserSetup:
         '''
             Docstring
         '''
-        profile = webdriver.FirefoxProfile(".profile/db")
+        # profile = webdriver.FirefoxProfile(os.path.join(os.environ.get("HOME"), "profile", "db"))
+        profile = webdriver.FirefoxProfile(os.path.join(".profile", "db"))
         profile.set_preference("security.default_personal_cert", "Select Automatically")
         profile.accept_untrusted_certs = True
 
@@ -29,7 +30,7 @@ class BrowserSetup:
         profile.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/pdf")
         profile.set_preference("browser.helperApps.alwaysAsk.force", False)
         profile.set_preference("pdfjs.disabled", True)
-        # profile.set_preference("service_log_path", self.get_path_logs())
+        profile.set_preference("service_log_path", os.path.join(".profile", "db"))
 
         # use proxy - https://stackoverflow.com/questions/17082425/running-selenium-webdriver-with-a-proxy-in-python
         # proxy_host = '189.126.67.230'

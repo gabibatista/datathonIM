@@ -2,6 +2,5 @@ crawler:
   site: 'https://www.linkedin.com/'
   locators:
     - locator: 'button_login'
-      value: '/html/body/nav/div/a'
-    - locator: 'create_your_resume'
-      value: '/html/body/nav/div/div/a[1]'
+      type: 'class_name'
+      value: 'nav__button-secondary'
