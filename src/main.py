@@ -12,13 +12,12 @@ def run():
     try:
         locators = Locator("linkedin")
         nav = NavigatePage(driver.browser)
-        for locator in locators:
-            soup = nav.navigate(locators.url).access(locator['value'])
-            print("COLETA DE OBJ: ", soup)
-    except:
+        el1 = nav.navigate(locators.url).access(locators['button_login'])
+        print("COLETA DE OBJ: ", el1)
+    except Exception as e:
+        print(e)
         pass
 
-    time.sleep(5)
     driver.tear_down()
     print("\n========Finished Crawler======")
 
