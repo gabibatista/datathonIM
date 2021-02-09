@@ -1,0 +1,7 @@
+.gitignore
+Dockerfile
+docker-compose.yaml
+tox.ini
+.pre-commit-config.yaml
+.git
+devops/

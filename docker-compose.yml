@@ -10,3 +10,5 @@ services:
         volumes:
             - ./src:/usr/src/app
             - ./notebooks:/usr/src/app/notebooks
+            - ./.profile:/usr/src/app/.profile
+            - ./locators:/usr/src/app/locators

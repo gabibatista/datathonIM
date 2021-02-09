@@ -15,4 +15,4 @@ RUN apt-get remove --purge -y git
 
 COPY src .
 
-CMD ["python", "./main.py"]
+CMD ["python", "main.py"]
