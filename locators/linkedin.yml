@@ -1,6 +1,6 @@
 crawler:
   site: 'https://www.linkedin.com/'
-  locators:
+  steps:
     - locator: 'button_login'
       type: 'class_name'
       value: 'nav__button-secondary'

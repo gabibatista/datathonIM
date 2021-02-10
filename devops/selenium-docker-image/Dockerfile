@@ -2,6 +2,8 @@ FROM ubuntu:18.04
 
 FROM python:3.7.5-slim
 
+FROM jupyter/datascience-notebook
+
 USER root:root
 
 RUN apt-get update && apt-get install -y \
@@ -13,6 +15,8 @@ RUN apt-get update && apt-get install -y \
     xvfb \
     locales \
     locales-all
+
+RUN echo 'c.NotebookApp.contents_manager_class = "notedown.NotedownContentsManager"' >> ~/.jupyter/jupyter_notebook_config.py
 
 # install geckodriver and firefox
 ENV GECKODRIVER_VERSION=v0.26.0

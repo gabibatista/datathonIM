@@ -110,9 +110,6 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
-# SageMath parsed files
-*.sage.py
-
 .venv
 .env
 env/
@@ -138,11 +135,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-santander-text-report.html
-SWEETVIZ_REPORT.html
-
-devops/airflow/secrets
-devops/airflow/logs
-
-genero-nomes.2.csv

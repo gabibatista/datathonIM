@@ -13,6 +13,4 @@ RUN pip install --no-cache-dir cryptography && \
 
 RUN apt-get remove --purge -y git
 
-COPY src .
-
 CMD ["python", "main.py"]

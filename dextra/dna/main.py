@@ -3,7 +3,7 @@ import time
 import os
 from common.locators import Locator
 from common.navigate.nav import NavigatePage
-from browser.setup.browser_setup import BrowserSetup
+from browser.browser_setup import BrowserSetup
 
 def run():
     print("========Starting Crawler======\n")
