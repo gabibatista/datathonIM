@@ -18,11 +18,14 @@ conda deactivate
 conda remove -n datathon-dna --all
 
 # creating 
-create -n datathon-dna python==3.7.5 -y
+conda create -n datathon-dna python==3.7.5 -y
 conda activate datathon-dna
 
 # install libs
 pip install -r requirements.txt
+
+# install firefox geckodriver
+apt-get install firefox-geckodriver
 ```
 
 ## Using conda env with jupyter
