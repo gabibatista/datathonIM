@@ -36,7 +36,7 @@ class NavigatePage:
 
         return res
 
-    def access(self, locator,):
+    def access(self, locator):
         sel = self.get_classname(locator)
         sel.click()
         return sel

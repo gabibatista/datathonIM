@@ -1,0 +1,22 @@
+crawler:
+  site: 'https://www.linkedin.com/jobs/search/?geoId=92000000&f_C='
+  steps:
+    - locator: 'pages_carousel'
+      type: 'class_name'
+      value: 'artdeco-pagination__pages--number'
+
+    - locator: 'jobs_list'
+      type: 'class_name'
+      value: 'data-occludable-entity-urn'
+
+    - locator: 'job_number'
+      type: 'class_name'
+      value: 'data-occludable-entity-urn'
+
+    - locator: 'job_summary'
+      type: 'class_name'
+      value: 'jobs-description-content__text'
+
+    - locator: 'job_views'
+      type: 'class_name'
+      value: 'jobs-details-top-card__content-container'
