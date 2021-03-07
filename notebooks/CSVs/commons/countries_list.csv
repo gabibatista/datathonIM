@@ -1,0 +1,816 @@
+city,country,country_code,origin,state
+Livonia,United States,USA,"Livonia, MI",MI
+,United States,USA,"Elmendorf Afb, Alaska",AK
+Lakewood,United States,USA,"Lakewood, New Jersey",NJ
+,United States,USA,"Elkhorn, Nebraska",NE
+Garden City,United States,USA,"Garden City, Idaho",ID
+Tacoma,United States,USA,"Tacoma, WA",WA
+Altamonte Springs,United States,USA,"Altamonte Springs, FL",FL
+Mount Laurel,United States,USA,"Mount Laurel, NJ",NJ
+Sao Caetano do Sul,Brazil,BRA,"São Caetano do Sul, SP",SP
+Akron,United States,USA,"Akron, Ohio",OH
+Tustin,United States,USA,"Tustin, CA",CA
+Austin,United States,USA,"Austin, TX",TX
+Parsippany,United States,USA,"Parsippany, New Jersey",NJ
+Atlanta,United States,USA,"Atlanta, Georgia",GA
+Scottsdale,United States,USA,"Scottsdale, Arizona",AZ
+New York,United States,USA,"New York, NY",NY
+Fort Wayne,United States,USA,"Fort Wayne, Indiana",IN
+Denver,United States,USA,"Denver, Colorado",CO
+Lady Lake,United States,USA,"Lady Lake, Florida",FL
+Auburn,United States,USA,"Auburn, NY",NY
+Columbia,United States,USA,"Columbia, Maryland",MD
+Pittsburgh,United States,USA,"Pittsburgh, PA",PA
+Baldwin City,United States,USA,"Baldwin City, KS",KS
+Houston,United States,USA,"Houston, Tx",TX
+Baltimore,United States,USA,"Baltimore, Maryland",MD
+Santa Clara,United States,USA,"Santa Clara, CA",CA
+Louisville,United States,USA,"Louisville, 40223",KY
+Columbus,United States,USA,"Columbus, Ohio",OH
+Laval,Canada,CAN,"Laval, Quebec",QC
+Kalamazoo,United States,USA,"Kalamazoo, MI",MI
+Los Angeles,United States,USA,"Los Angeles, CA",CA
+Uttara,Bangladesh,BGD,"Dhaka, Uttara",RP
+Alamo,United States,USA,"Alamo, CA",CA
+El Segundo,United States,USA,"El Segundo , California",CA
+Johns Creek,United States,USA,"Johns Creek, Georgia",GA
+Cambridge,United States,USA,"Cambridge, MA",MA
+Altamonte Springs,United States,USA,"Altamonte Springs, Florida",FL
+Overland Park,United States,USA,"Overland Park, KS",KS
+Durham,United States,USA,"Durham, NC",NC
+Bastrop,United States,USA,"Bastrop, Texas",TX
+Rockville,United States,USA,"Rockville, MD",MD
+Woodcliff Lake,United States,USA,"Woodcliff Lake, NJ",NJ
+Phillip Island,Australia,AUS,"Phillip Island, Victoria",VIC
+Gaithersburg,United States,USA,"Gaithersburg, Maryland",MD
+Syracuse,United States,USA,"Syracuse, NY",NY
+Alpharetta,United States,USA,"Alpharetta, Georgia",GA
+Boston,United States,USA,"Boston, Ma.",MA
+Boston,United States,USA,"Boston, Massachusetts",MA
+Houston,United States,USA,"Houston, TX",TX
+,United States,USA,"Lawrence Township, NJ",NJ
+Smithfield,United States,USA,"Smithfield, RI",RI
+Indianapolis,United States,USA,"Indianapolis, Indiana",IN
+Washington,United States,USA,"Washington, DC",DC
+West Des Moines,United States,USA,"West Des Moines, Iowa",IA
+Pinehurst,United States,USA,"Pinehurst, NC",NC
+Charlotte,United States,USA,"Charlotte, NC",NC
+,Austria,AUT,"Fischamend, Lower Austria",NO
+Scottsdale,United States,USA,"Scottsdale, AZ",AZ
+Minneapolis,United States,USA,"Minneapolis, Minnesota",MN
+Chandler,United States,USA,"Chandler, Arizona",AZ
+Mendon,United States,USA,"Mendon, Vermont",VT
+Basingstoke,United Kingdom,GBR,"Basingstoke, Hampshire",
+Dallas,United States,USA,"Dallas, TX",TX
+Humble,United States,USA,"Humble, Texas",TX
+London,United Kingdom,GBR,"London, England",
+Salt Lake City,United States,USA,"Salt Lake City, UT",UT
+Coolidge,United States,USA,"Coolidge, az",AZ
+Fitchburg,United States,USA,"Fitchburg, WI",WI
+Nashville,United States,USA,"Nashville, TN",TN
+Chattanooga,United States,USA,"Chattanooga, tn",TN
+Howell,United States,USA,"Howell, Michigan",MI
+Greenbelt,United States,USA,"Greenbelt, Maryland",MD
+Grand Island,United States,USA,"Grand Island, NE",NE
+Inver Grove Heights,United States,USA,"Minnesota, 55077",MN
+Houston,United States,USA,"Houston, Texas",TX
+Raleigh,United States,USA,"Raleigh, North Carolina",NC
+Burbank,United States,USA,"Burbank, CA",CA
+Conover,United States,USA,"Conover, NC",NC
+Fayetteville,United States,USA,"Fayetteville, North Carolina",NC
+Fort Worth,United States,USA,"Fort Worth, Texas",TX
+Katy,United States,USA,"Katy, TX",TX
+Las Vegas,United States,USA,"Las Vegas, Nevada",NV
+Manhattan,United States,USA,"Manhattan, KS",KS
+West Palm Beach,United States,USA,"West Palm Beach, FL",FL
+,United States,USA,"Madison, CT",CT
+Rocky Hill,United States,USA,"Rocky Hill, CT",CT
+Fort Washington,United States,USA,"Fort Washington, PA",PA
+Chicago,United States,USA,"Chicago, Illinois",IL
+,,,"Clearfield, Pennsylvania",
+Hilton Head Island,United States,USA,"Hilton Head Island, SC",SC
+Irvine,United States,USA,"Irvine, CA",CA
+Colorado Springs,United States,USA,"Colorado Springs, CO",CO
+St. Louis,United States,USA,"St. Louis, MO",MO
+Anchorage,United States,USA,"Anchorage, Alaska",AK
+Marlton,United States,USA,"Marlton, New Jersey",NJ
+Morrisville,United States,USA,"Morrisville, Vermont",VT
+Cherry Hill Mall,United States,USA,"Cherry Hill, New Jersey",NJ
+Dublin,Ireland,IRL,"Dublin 2, County Dublin",DN
+New Bern,United States,USA,"New Bern, NC",NC
+Sacramento,United States,USA,"Sacramento, California",CA
+Boca Raton,United States,USA,"Boca Raton, FL",FL
+Dallas,United States,USA,"Dallas, Texas",TX
+Ellensburg,United States,USA,"Ellensburg, wa",WA
+Aptos,United States,USA,"Aptos, California",CA
+Rice Lake,United States,USA,"Rice Lake, Wisconsin",WI
+,,,"Fort Dodge, Iowa",
+Mira Loma,United States,USA,"Mira Loma, California",CA
+Oak Brook,United States,USA,"Oak Brook, Illinois",IL
+,,,"Portland, OR",
+Charlotte,United States,USA,"Charlotte, North Carolina",NC
+Melville,United States,USA,"Melville, New York",NY
+Shenandoah,United States,USA,"Shenandoah, Iowa",IA
+Oak Creek,United States,USA,"Oak Creek, WI",WI
+Dearborn,United States,USA,"Dearborn, MI",MI
+Jersey City,United States,USA,"Jersey City, New Jersey",NJ
+Brigham City,United States,USA,"Brigham City, Utah",UT
+,,,"San Francisco, CA",
+Oak Bluff,Canada,CAN,"Oak Bluff, Manitoba",
+Oklahoma City,United States,USA,"Oklahoma City, OK",OK
+Atlantic Beach,United States,USA,"Atlantic Beach, New York",NY
+Taneytown,United States,USA,"Taneytown, Maryland",MD
+New Providence,United States,USA,"New Providence, New Jersey",NJ
+Rochester,United States,USA,"Rochester, New York",NY
+Green Bay,United States,USA,"Green Bay, WI",WI
+Vernon,Canada,CAN,"Vernon, CA",BC
+Chicago,United States,USA,"Chicago, IL",IL
+Memphis,United States,USA,"Memphis, Tennessee",TN
+Lagos,Nigeria,NGA,"Victoria Island, Lagos",LA
+Mumbai,India,IND,"Mumbai, Maharashtra",MH
+Sebastopol,United States,USA,"Sebastopol, California",CA
+Colonial Heights,United States,USA,"Colonial Heights, VA",VA
+Macae,Brazil,BRA,"Macaé, RJ",RJ
+Chadds Ford,United States,USA,"Chadds Ford, PA",PA
+,Tunisia,TUN,"Ariana, Tunisie",AN
+Fort Worth,United States,USA,"Fort Worth, TX",TX
+Santa Monica,United States,USA,"Santa Monica, CA",CA
+Bohemia,United States,USA,"Bohemia, New York",NY
+Deerfield,United States,USA,"Deerfield, Illinois",IL
+Louisville,United States,USA,"Louisville, KY",KY
+,,,"Zanesville, oh",
+Atlanta,United States,USA,"Atlanta, GA",GA
+Sugar Land,United States,USA,"Sugar Land, Texas",TX
+Nuremberg,Germany,DEU,"Nuremberg, Bavaria",BY
+,,,"Miami, Flórida",
+Mckinney,United States,USA,"McKinney, Texas",TX
+São Paulo,Brazil,BRA,"Sao Paulo, São Paulo",SP
+Boston,United States,USA,"Boston, MA",MA
+Montgomery,United States,USA,"Montgomery, AL",AL
+,United States,USA,"Columbus, Indiana",IN
+Allendale,United States,USA,"Allendale, MI",MI
+Southfield,United States,USA,"Southfield, MI",MI
+Virginia Beach,United States,USA,"Virginia Beach , VA",VA
+Tampa,United States,USA,"Tampa, Florida",FL
+Springfield,United States,USA,"Springfield, MA",MA
+San Antonio Texas,Mexico,MEX,"San Antonio, Texas",CHP
+Cambridge,United States,USA,"Cambridge, Massachusetts",MA
+Detroit,United States,USA,"Detroit, Michigan",MI
+Fallon,United States,USA,"Fallon, Nevada",NV
+Raleigh,United States,USA,"Raleigh, NC",NC
+Grand Rapids,United States,USA,"Grand Rapids, Michigan",MI
+Austin,United States,USA,"Austin, Texas",TX
+Dublin,Ireland,IRL,"Dublin, Ireland",DN
+Hagerstown,United States,USA,"Hagerstown, MD",MD
+New York,United States,USA,"New York, New York",NY
+São Paulo,Brazil,BRA,"São Paulo, São Paulo",SP
+Sheboygan,United States,USA,"Sheboygan, WI",WI
+Secaucus,United States,USA,"Secaucus, NJ",NJ
+Troy,United States,USA,"Troy, New York",NY
+Southfield,United States,USA,"Southfield, Michigan",MI
+Plano,United States,USA,"Plano, TX",TX
+Indiana,United States,USA,"Indiana, PA",PA
+Los Banos,United States,USA,"Los Banos, CA",CA
+Russellville,United States,USA,"Russellville, Alabama",AL
+Palo Alto,United States,USA,"Palo Alto, CA",CA
+,,,"Richardson, Texas",
+Greenwood Village,United States,USA,"Greenwood Village, Colorado",CO
+,United States,USA,"Bloomington, IN",IN
+,United States,USA,"Boise, ID",ID
+West Harrison,United States,USA,"West Harrison, NY.",NY
+Lynbrook,United States,USA,"Lynbrook, New York",NY
+New York,United States,USA,"Brooklyn, New York",NY
+Dry Prong,United States,USA,"DRY PRONG, Louisiana",LA
+Baltimore,United States,USA,"Baltimore, MD",MD
+New Brunswick,United States,USA,"New Brunswick, NJ",NJ
+Auburn Hills,United States,USA,"Auburn Hills, Michigan",MI
+Waco,United States,USA,"Waco, TX",TX
+Los Angeles,United States,USA,"Wilmington, CA",CA
+Chantilly,United States,USA,"Chantilly, VA",VA
+Wisconsin Dells,United States,USA,"Wisconsin Dells, Wi",WI
+Bakersfield,United States,USA,"Bakersfield, CA",CA
+Harrisburg,United States,USA,"Harrisburg, Pennsylvania",PA
+Wildwood,United States,USA,"Wildwood, FL",FL
+Grapevine,United States,USA,"Grapevine, TX",TX
+Las Cruces,United States,USA,"Las Cruces, New Mexico",NM
+Brighton,United States,USA,"Brighton, MI",MI
+Dodgeville,United States,USA,"Dodgeville, WI",WI
+,United States,USA,"Horsham, PA",PA
+Philadelphia,United States,USA,"Philadelphia, Pennsylvania",PA
+West Hartford,United States,USA,"West Hartford, CT",CT
+Omaha,United States,USA,"Omaha, NE",NE
+Hamel,United States,USA,"Hamel, MN",
+Los Alamos,United States,USA,"Los Alamos, NM",NM
+West Hollywood,United States,USA,"West Hollywood, CA",CA
+,,,"Redmond, Washington",
+,,,"Brooklyn, IA",
+Newport,United Kingdom,GBR,"Newport, Isle of Wight",
+,,,"Minneapolis, MN",
+Cary,United States,USA,"Cary, NC",NC
+,,,"San Diego, CA",
+Englewood,United States,USA,"Englewood, CO",CO
+Burnsville,United States,USA,"Burnsville, MN",MN
+Loveland,United States,USA,"Loveland, Ohio",OH
+Austell,United States,USA,"Austell, Georgia",GA
+Milwaukee,United States,USA,"Milwaukee, Wisconsin",WI
+Joplin,United States,USA,"Joplin, mo",MO
+Portland,United States,USA,"Portland, Oregon",OR
+Mundelein,United States,USA,"Greater Chicago Area, IL",IL
+Moses Lake,United States,USA,"Moses Lake, WA",WA
+Okemos,United States,USA,"Okemos, MI",MI
+San Diego,United States,USA,"San Diego, California",CA
+Troy,United States,USA,"Troy, MI",MI
+Issaquah,United States,USA,"Issaquah, WA",WA
+Lexington-Fayette,United States,USA,"Lexington, KY",KY
+Old Westbury,United States,USA,"Old Westbury, NY",NY
+Hoboken,United States,USA,"Hoboken, New Jersey",NJ
+State College,United States,USA,"State College, PA",PA
+San Diego,United States,USA,"San Diego, ca",CA
+Anaheim,United States,USA,"Anaheim, CA",CA
+Bloomington,United States,USA,"Bloomington, mn",MN
+Milwaukee,United States,USA,"Milwaukee, WI",WI
+,,,"Fairhaven, MA",
+Rosedale,United States,USA,"Rosedale, NY",NY
+,,,"Maple Lawn, MD",
+Saint Helier,Jersey,JEY,"St Helier, Jersey",
+Omaha,United States,USA,"Omaha, Nebraska",NE
+,United States,USA,"Holland, MI",MI
+Hong Kong,Hong Kong S.A.R.,HKG,"Hong Kong, Hong Kong",CW
+Rochester,United States,USA,"Rochester, MI",MI
+Sutherlin,United States,USA,"Sutherlin, Oregon",OR
+Sioux Falls,United States,USA,"SIOUX FALLS, South Dakota",SD
+Somerville,United States,USA,"Raritan, NJ",NJ
+Shoreview,United States,USA,"Shoreview, MN",MN
+Warrendale,United States,USA,"Warrendale, Pennsylvania",PA
+St. Paul,United States,USA,"St Paul, MN",MN
+Los Angeles,United States,USA,"Los Angeles, California",CA
+Dunwoody,United States,USA,"Dunwoody, Georgia",GA
+,United States,USA,"Johnstown, pa",PA
+,United States,USA,"Mount Vernon, Illinois",IL
+Paris,France,FRA,"Paris, Ile-de-France",VP
+Duncanville,United States,USA,"Duncanville, TX",TX
+Oldsmar,United States,USA,"Oldsmar, Florida",FL
+Fresno,United States,USA,"Fresno, CA",CA
+Marietta,United States,USA,"Marietta, Georgia",GA
+Winterville,United States,USA,"Winterville, NC",NC
+Parsippany,United States,USA,"Parsippany, NJ",NJ
+Sarasota,United States,USA,"Sarasota, Florida",FL
+London,United Kingdom,GBR,"Croydon, Surrey",
+Louisville,United States,USA,"Louisville, Kentucky",KY
+Amanzimtoti,South Africa,ZAF,"AMANZIMTOTI, Kwazulunatal",NL
+Mayfield,United States,USA,"Mayfield Village, OH",OH
+Seattle,United States,USA,"Seattle, WA",WA
+Madison,United States,USA,"Madison, WI",WI
+Duncansville,United States,USA,"Duncansville, Pennsylvania",PA
+Billerica,United States,USA,"Billerica, Massachusetts",MA
+,,,"San Jose, CA",
+Nicholasville,United States,USA,"Nicholasville, KY",KY
+Utrecht,Netherlands,NLD,"Utrecht, Utrecht",UT
+Tuscaloosa,United States,USA,"Tuscaloosa, Alabama",AL
+Kennesaw,United States,USA,"Kennesaw, GA",GA
+Tomball,United States,USA,"Tomball, Texas",TX
+Lawrenceville,United States,USA,"Lawrenceville, NJ",NJ
+Richmond,Canada,CAN,"Richmond, BC",BC
+Newton,United States,USA,"Newton, MA",MA
+Bristol,United States,USA,"Bristol, Indiana",IN
+Kansas City,United States,USA,"Kansas City, mo",MO
+Denver,United States,USA,"Denver, CO",CO
+Berne,Switzerland,CHE,"Bern, BE",BE
+Grand Rapids,United States,USA,"Grand Rapids, MI",MI
+Salem,United States,USA,"Salem, MA",MA
+Solana Beach,United States,USA,"Solana Beach, California",CA
+Burnt Hills,United States,USA,"BURNT HILLS, New York",NY
+Viroflay,France,FRA,"Viroflay, Ile-de-France",YV
+Latham,United States,USA,"Latham, NY",NY
+Hollywood,United States,USA,"Hollywood, FL",FL
+Salamanca,United States,USA,"Salamanca, New York",NY
+Marlborough,United States,USA,"Marlborough, MA",MA
+,United States,USA,"St. Peters, MO",MO
+São Paulo,Brazil,BRA,"São Paulo, SP",SP
+Los Angeles,United States,USA,"Sylmar , CA",CA
+Ferndale,United States,USA,"Ferndale, WA",WA
+Somerville,United States,USA,"Somerville, MA",MA
+Loveland,United States,USA,"Loveland, Colorado",CO
+South Burlington,United States,USA,"South Burlington, Vermont",VT
+Columbia,United States,USA,"Columbia, South Carolina",SC
+Rivervale,Australia,AUS,"Rivervale, WA",WA
+Mosier,United States,USA,"Mosier, Oregon",OR
+Hillsborough,United States,USA,"Hillsborough, NC",NC
+Lansing,United States,USA,"Lansing, Michigan",MI
+Miami,United States,USA,"Miami, FL",FL
+New Holland,United States,USA,"New Holland, PA",PA
+Eden Prairie,United States,USA,"Eden Prairie, MN",MN
+Selinsgrove,United States,USA,"Selinsgrove, PA",PA
+Cincinnati,United States,USA,"Cincinnati, OH",OH
+Lake Forest,United States,USA,"Lake Forest, IL",IL
+Brownsville,United States,USA,"Brownsville, Texas",TX
+San Francisco,United States,USA,"San Francisco, California",CA
+Washington,United States,USA,"Washington, District of Columbia",DC
+Fond du Lac,United States,USA,"Fond du Lac, Wisconsin",WI
+Tulsa,United States,USA,"Tulsa, OK",OK
+Jacksonville,United States,USA,"Jacksonville, Florida",FL
+Arlington,United States,USA,"Arlington, Virginia",VA
+Alpharetta,United States,USA,"Alpharetta, GA",GA
+Oak Brook,United States,USA,"Oak Brook, IL",IL
+,,,"Athol, MA",
+Mobile,United States,USA,"Mobile, Alabama",AL
+Plymouth,United States,USA,"Plymouth, MN",MN
+South San Francisco,United States,USA,"South San Francisco, CA",CA
+Morrisville,United States,USA,"Morrisville, North Carolina",NC
+Pharr,United States,USA,"Pharr, Texas",TX
+Princeton,United States,USA,"Princeton, New Jersey",NJ
+Windsor Locks,United States,USA,"Windsor, CT",CT
+Melbourne,Australia,AUS,"Melbourne, Victoria",VIC
+Laramie,United States,USA,"Laramie, WY",WY
+Winston-Salem,United States,USA,"Winston-Salem, NC",NC
+New Orleans,United States,USA,"New Orleans, LA",LA
+Elgin,United States,USA,"Elgin, Illinois",IL
+Northbrook,United States,USA,"Northbrook, Illinois",IL
+West Des Moines,United States,USA,"West Des Moines, IA",IA
+Boulder,United States,USA,"Boulder, Colorado",CO
+,,,"Aurora, co",
+Malvern,United States,USA,"Malvern, PA",PA
+Waterloo,United States,USA,"Waterloo, IA",IA
+,,,"San Antonio, TX",
+Virginia Beach,United States,USA,"Virginia Beach, VA",VA
+Richmond,United States,USA,"Richmond, VA",VA
+San Antonio,United States,USA,"San Antonio , TX",TX
+Dayton,United States,USA,"Dayton, OH",OH
+Amsterdam,Netherlands,NLD,"Amsterdam, North Holland",NH
+Herndon,United States,USA,"Herndon, VA",VA
+Hampshire,United States,USA,"Hampshire, IL",IL
+Rosemount,United States,USA,"Rosemount, Minnesota",MN
+Ellensburg,United States,USA,"Ellensburg, Washington",WA
+Springfield,United States,USA,"Springfield, Missouri",MO
+,,,"Branson, Missouri",
+Worcester,United States,USA,"Worcester, Massachusetts",MA
+Lehi,United States,USA,"Lehi, UT",UT
+Buena Park,United States,USA,"Buena Park, CA",CA
+Lehi,United States,USA,"Lehi, Utah",UT
+Bethel,United States,USA,"Bethel, Alaska",AK
+London,United Kingdom,GBR,"London, London",
+Malvern,Australia,AUS,"Malvern, VIC",VIC
+Berlin,Germany,DEU,"Berlin, Berlin",BE
+Gurugram,India,IND,"Gurgaon, Haryana",HR
+Des Moines,United States,USA,"Des Moines, Iowa",IA
+Cincinnati,United States,USA,"Cincinnati, Ohio",OH
+Seattle,United States,USA,"Seattle, Washington",WA
+Valley Forge,United States,USA,"Valley Forge, PA",PA
+London,United Kingdom,GBR,"London, Greater London",
+Menlo Park,United States,USA,"Menlo Park, California",CA
+Palo Alto,United States,USA,"Palo Alto, California",CA
+Cardiff County,United Kingdom,GBR,"Cardiff, Wales",
+Munich,Germany,DEU,"München, Bayern",BY
+Mountain View,United States,USA,"Mountain View, California",CA
+Toronto,Canada,CAN,"Toronto, ON",ON
+Paris,France,FRA,"Paris, Île-de-France",VP
+Warsaw,Poland,POL,"Warsaw, Mz",MZ
+Curitiba,Brazil,BRA,"Curitiba, Paraná",PR
+Saint Petersburg City,Russia,RUS,"St. Petersburg, -",SP
+North Sydney,Australia,AUS,"North Sydney, New South Wales",NSW
+Esplugues de Llobregat,Spain,ESP,"Esplugues de Llobregat, Cataluña",CT
+,Luxembourg,LUX,"Luxembourg, Luxembourg",LU
+Laval,Canada,CAN,"Laval, Québec",QC
+Manchester,United Kingdom,GBR,"Manchester, Greater Manchester",
+Sydney,Australia,AUS,"Sydney, New South Wales",NSW
+,,,"Oakland, California",
+Dusseldorf,Germany,DEU,"Düsseldorf, Nordrhein-Westfalen",NW
+Tallinn,Estonia,EST,"Tallinn, Harjumaa",HA
+London,United Kingdom,GBR,"London, Shoreditch",
+Redwood City,United States,USA,"Redwood City, California",CA
+Somerset,United States,USA,"Somerset, New Jersey",NJ
+Joaçaba,Brazil,BRA,"Joaçaba, SC",SC
+Wilmington,United States,USA,"Wilmington, DE",DE
+Curitiba,Brazil,BRA,"Curitiba, PR",PR
+Wilmington,United States,USA,"Wilmington, Delaware",DE
+National Capital Region,Philippines,PHL,"Quezon City , NCR",
+Detroit,United States,USA,"Detroit, MI",MI
+Zurich,Switzerland,CHE,"Zurich, ZH",ZH
+Providence,United States,USA,"Abbott Park, Illinois",RI
+Whitby,Canada,CAN,"Whitby, Ontario",ON
+Milan,Italy,ITA,"Milano, Italia",MI
+Marilia,Brazil,BRA,"Marília, São Paulo",SP
+Rio de Janeiro,Brazil,BRA,"Rio de Janeiro, RJ",RJ
+Kansas City,United States,USA,"Kansas City, Missouri",MO
+,,,"Draper, Utah",
+Redwood City,United States,USA,"Redwood City, CA",CA
+Bangalore,India,IND,"Bengaluru, Karnatka",KA
+San Diego,United States,USA,"San Diego , California",CA
+Guarulhos,Brazil,BRA,"GUARULHOS, SP",SP
+Madrid,Spain,ESP,"Madrid , Madrid",MD
+Barueri,Brazil,BRA,"Barueri, São Paulo",SP
+Ziegelbrücke,Switzerland,CHE,"Ziegelbrücke, Glarus",SG
+San Miguel,Peru,PER,"San Miguel, Lima",LR
+Londrina,Brazil,BRA,"Londrina, PR",PR
+North Port,United States,USA,"North Port, FL",FL
+Niteroi,Brazil,BRA,"Niterói, Rio de Janeiro",RJ
+Franklin,United States,USA,"Franklin, Tennessee",TN
+Cestas,France,FRA,"Cestas, Nouvelle-Aquitaine",GI
+Roseland,United States,USA,"Roseland, New Jersey",NJ
+Wexford,United States,USA,"Wexford, Pennsylvania",PA
+Boca Raton,United States,USA,"Boca Raton, Florida",FL
+Huntsville,United States,USA,"Huntsville, AL",AL
+Nashville,United States,USA,"Nashville, Tennessee",TN
+Roseville,United States,USA,"Roseville, CA",CA
+Uberlandia,Brazil,BRA,"Uberlândia, Minas Gerais",MG
+Cuiaba,Brazil,BRA,"Cuiabá, Mato Grosso",MT
+Sofia,Bulgaria,BGR,"Sofia, Sofia City",SF
+Belo Horizonte,Brazil,BRA,"Belo Horizonte, Minas Gerais",MG
+Tallahassee,United States,USA,"Tallahassee, Florida",FL
+Hartford,United States,USA,"Hartford, Connecticut",CT
+Porto Velho,Brazil,BRA,"Porto Velho, Rondônia",R.
+Foz do Iguacu,Brazil,BRA,"Foz do Iguaçu, PR",PR
+Longueuil,Canada,CAN,"Saint-Hubert, Quebec",QC
+Joinville,Brazil,BRA,"Joinville, Santa Catarina",SC
+Araucária,Brazil,BRA,"Araucária, Paraná",PR
+Plano,United States,USA,"Plano, Texas",TX
+Fornebu,Norway,NOR,"Fornebu, Akershus",
+,United States,USA,"Boise, Idaho",ID
+Rio de Janeiro,Brazil,BRA,"Rio de Janeiro, Rio de Janeiro",RJ
+Rueil-Malmaison,France,FRA,"Rueil Malmaison Cedex, France",HD
+Curitiba,Brazil,BRA,"Curitiba, Parana",PR
+Barueri,Brazil,BRA,"Alphaville - Barueri, São Paulo",SP
+New Delhi,India,IND,"New Delhi, New Delhi",DL
+Uberlandia,Brazil,BRA,"Uberlandia, MG",MG
+Bangalore,India,IND,"Bangalore, Karnataka",KA
+Miami,United States,USA,"Miami, Florida",FL
+Montreal,Canada,CAN,"Montréal, Québec",QC
+Columbus,United States,USA,"Columbus , Ohio",OH
+Bento Gonçalves,Brazil,BRA,"Bento Gonçalves, RS",RS
+Phoenix,United States,USA,"Phoenix, AZ",AZ
+Saint-Ouen,France,FRA,"Saint-Ouen, France",SS
+Northbrook,United States,USA,"Northbrook, IL",IL
+Colombo,Brazil,BRA,"Colombo, PR",PR
+New York,United States,USA,"Queens, New York",NY
+Blumenau,Brazil,BRA,"Blumenau, SC",SC
+Chesterfield,United States,USA,"Chesterfield, MO",MO
+Zagreb,Croatia,HRV,"Zagreb, Grad Zagreb",GZ
+Gainesville,United States,USA,"Gainesville, GA",GA
+Irvine,United States,USA,"Irvine, California",CA
+Kaneohe,United States,USA,"Honolulu, Hawaii",HI
+Huntersville,United States,USA,"Huntersville, NC",NC
+Lafayette,United States,USA,"Lafayette, Indiana",IN
+,United Kingdom,GBR,"Surrey, Greater London",
+Campinas,Brazil,BRA,"Campinas, SP",SP
+São Paulo,Brazil,BRA,"São Paulo,  SP",SP
+Graz,Austria,AUT,"Graz, Styria",ST
+Matthews,United States,USA,"Holly Springs, NC",NC
+Reykjavik,Iceland,ISL,"Reykjavik, Kopavogur",NE
+Norcross,United States,USA,"Norcross, Georgia",GA
+,,,"Maringá, Paraná",
+Bruck an der Leitha,Austria,AUT,"Hamilton, P.O. Box 2460 HMJX",NO
+Redding,United States,USA,"Redding, CA",CA
+Glen Allen,United States,USA,"Glen Allen, VA",VA
+Brasilia,Brazil,BRA,"Brasília (Brasília, Brazil), DF",DF
+Sorocaba,Brazil,BRA,"Sorocaba, São Paulo",SP
+Cupertino,United States,USA,"Cupertino, California",CA
+Bellevue,United States,USA,"Bellevue, WA",WA
+Udaipur,India,IND,"UDAIPUR, Rajasthan",RJ
+Pauliceia,Brazil,BRA,"Paulicéia, São Paulo",SP
+Campo Largo,Brazil,BRA,"Campo Largo, Paraná",PR
+Tampa,United States,USA,"Tampa, FL",FL
+Irving,United States,USA,"Irving, TX",TX
+Campo Bom,Brazil,BRA,"Campo Bom, RS",RS
+,,,"Clearwater, Fl",
+Beijing,China,CHN,"Beijing, Beijing",BJ
+Oklahoma City,United States,USA,"Oklahoma City, Oklahoma",OK
+Arcadia,United States,USA,"Arcadia, WI",WI
+Roswell,United States,USA,"Roswell, Georgia",GA
+,Chile,CHL,"Valparaiso, Valparaiso",VS
+Florianopolis,Brazil,BRA,"Florianópolis, Santa Catarina",SC
+Brasilia,Brazil,BRA,"Brasília, Distrito Federal",DF
+Curitiba,Brazil,BRA,"Curitiba, Pr",PR
+Curitiba,Brazil,BRA,"Curitiba , Paraná",PR
+Jacarei,Brazil,BRA,"Jacareí, São Paulo",SP
+Cambridge,United Kingdom,GBR,"Cambridge, Cambridgeshire",
+Cleveland,United States,USA,"Cleveland, Ohio",OH
+Vancouver,Canada,CAN,"Vancouver, BC",BC
+Beaverton,United States,USA,"Beaverton, OR",OR
+Troy,United States,USA,"Troy, Michigan",MI
+Ribeirao Preto,Brazil,BRA,"Ribeirão Preto, SP",SP
+Montoursville,United States,USA,"Montoursville, PA",PA
+Shenzhen,China,CHN,"Shenzhen, Guangdong",GD
+,Spain,ESP,"Bellaterra (Cerdanyola del Vallès), Barcelona",CT
+Pouso Alegre,Brazil,BRA,"Pouso Alegre, MG",MG
+Corunna,Spain,ESP,"A CORUÑA, A Coruña",GA
+São Paulo,Brazil,BRA,"sao paulo, sao paulo",SP
+Memphis,United States,USA,"Memphis, TN",TN
+Barueri,Brazil,BRA,"Barueri, SP",SP
+Solihull,United Kingdom,GBR,"Solihull, Warwickshire",
+,France,FRA,"Paris, Ile de France",VM
+Los Angeles,United States,USA,"Canoga Park, California",CA
+Paris,France,FRA,"Paris, FR",VP
+New Amsterdam,,,"Amsterdam, Amsterdam",DE
+,,,"Pembroke, HM",PE
+Chapeco,Brazil,BRA,"CHAPECÓ, Santa Catarina",SC
+,Poland,POL,"Jelenia Góra, Lower Silesia",SL
+Orlando,United States,USA,"Orlando, FL",FL
+Mexico City,Mexico,MEX,"México, Distrito Federal",DF
+Osasco,Brazil,BRA,"Osasco, São Paulo",SP
+Rio de Janeiro,Brazil,BRA,"RIO DE JANEIRO, RJ",RJ
+Las Condes,Chile,CHL,"Las Condes, Región Metropolitana de Santiago",RM
+Tupelo,United States,USA,"Tupelo, Mississippi",MS
+,,,"Jakarta, DKI Jakarta",
+Little Rock,United States,USA,"Little Rock, Arkansas",AR
+Porto Alegre,Brazil,BRA,"Porto Alegre, RS",RS
+Kortrijk,Belgium,BEL,"Kortrijk, West Vlaanderen",WV
+Shelton,United States,USA,"Shelton, Connecticut",CT
+Egham,United Kingdom,GBR,"Egham, Surrey",
+Chapeco,Brazil,BRA,"Chapecó, Santa Catarina",SC
+Bilbao,Spain,ESP,"Bilbao, Vizcaya",PV
+Birmingham,United States,USA,"Birmingham, AL",AL
+Zug,Switzerland,CHE,"Zug, Zug",ZG
+Ponta Grossa,Brazil,BRA,"Ponta Grossa, Paraná",PR
+Elizabethtown,United States,USA,"Elizabethtown, Kentucky",KY
+Balneário Camboriú,Brazil,BRA,"Balneário Camboriú, Santa Catarina",SC
+Araucária,Brazil,BRA,"Araucaria, Paraná",PR
+Ponta Grossa,Brazil,BRA,"Ponta Grossa, PR",PR
+,,,"Miami Gardens, Florida",
+Lancaster,United States,USA,"Lancaster, PA",PA
+Evansville,United States,USA,"Evansville, IN",IN
+Phoenix,United States,USA,"Phoenix, Arizona",AZ
+Richfield,United States,USA,"Richfield, Minnesota",MN
+Mclean,United States,USA,"McLean, Virginia",VA
+Philadelphia,United States,USA,"Philadelphia, PA",PA
+Cologne,Germany,DEU,"Köln, Nordrhein-Westfalen",NW
+Las Condes,Chile,CHL,"Santiago, Las Condes, RM",RM
+Tel Aviv,Israel,ISR,"Tel Aviv-Yafo, Tel Aviv",TA
+Diadema,Brazil,BRA,"Diadema , São Paulo",SP
+Ożarów Mazowiecki,Poland,POL,"Ożarów Mazowiecki, Mazowieckie",MZ
+Vinhedo,Brazil,BRA,"Vinhedo, São Paulo",SP
+Ipswich,United Kingdom,GBR,"Ipswich, England",
+Tempe,United States,USA,"Tempe, Arizona",AZ
+São Paulo,Brazil,BRA,"São Paulo, Divorciado/a",SP
+Curitiba,Brazil,BRA,"Curitiba, Matriz",PR
+Jacksonville,United States,USA,"Jacksonville, FL",FL
+Pleasanton,United States,USA,"Pleasanton, California",CA
+Reading,United Kingdom,GBR,"Reading, Berkshire",
+,,,"High Wycombe, Bucks",
+Pallejà,Spain,ESP,"Pallejà, Cataluña / Catalunya",CT
+Santo Andre,Brazil,BRA,"Santo André, São Paulo",SP
+Arlington,United States,USA,"Arlington, VA",VA
+Meridian,United States,USA,"Meridian, Idaho",ID
+Chadds Ford,United States,USA,"Chadds Ford, Pennsylvania",PA
+Chattanooga,United States,USA,"Chattanooga, TN",TN
+Farmington Hills,United States,USA,"Farmington Hills, MI",MI
+Abstatt,Germany,DEU,"Abstatt, Baden-Wuerttemberg",BW
+Framingham,United States,USA,"Framingham, Massachusetts",MA
+,France,FRA,"Paris, Îledefrance",VM
+Sealand,United States,USA,"Copenhagen, Capital Region, Denmark, Sealand",ME
+São Paulo,Brazil,BRA,"São Paulo, sao paulo",SP
+Quatá,Brazil,BRA,"Quatá, São Paulo",SP
+Curitiba,Brazil,BRA,"CURITIBA, Paraná",PR
+Mchenry,United States,USA,"McHenry, IL",IL
+Carlsbad,United States,USA,"Carlsbad, CA",CA
+St. Paul,United States,USA,"Saint Paul, Minnesota",MN
+Redmond,United States,USA,"Redmond, WA",WA
+Charleston,United States,USA,"Charleston, South Carolina",SC
+Hamburg,Germany,DEU,"Hamburg, Hamburg",HH
+San Jose,United States,USA,"San Jose, California",CA
+Hyderabad,India,IND,"HYDERABAD, Telangana",AP
+Ainsworth,United States,USA,"Ainsworth, NE",NE
+Nottingham,United Kingdom,GBR,"Nottingham, Nottinghamshire",
+Stuttgart,Germany,DEU,"Stuttgart, Deutschland",BW
+Stratford,United States,USA,"Stratford, NJ",NJ
+Erwitte,Germany,DEU,"Bad Westernkotten, NRW",NW
+Darmstadt,Germany,DEU,"Darmstadt, Hesse",HE
+Eislingen/Fils,Germany,DEU,"Eislingen/Fils, Baden-Württemberg",BW
+Torcy,France,FRA,"Paris La Défense, Hauts-de-Seine",SE
+Barueri,Brazil,BRA,"Barueri, Sao Paulo",SP
+Kansas City,United States,USA,"Kansas City, MO",MO
+Champaign,United States,USA,"Champaign, IL",IL
+Orlando,United States,USA,"Orlando, fl",FL
+Campinas,Brazil,BRA,"Campinas, Sao Paulo",SP
+London,United Kingdom,GBR,"Westminster, London",
+Dublin,United States,USA,"Dublin, Dublin",PA
+Naperville,United States,USA,"Naperville, IL",IL
+Coppell,United States,USA,"Coppell, TX",TX
+Brasilia,Brazil,BRA,"Brasília, DF",DF
+Toronto,Canada,CAN,"Toronto, Ontario",ON
+Brasilia,Brazil,BRA,"Brasilia, DF",DF
+Paris,France,FRA,"Paris, France",VP
+Mclean,United States,USA,"McLean, Va",VA
+Lawndale,United States,USA,"Lawndale, California",CA
+Wayzata,United States,USA,"Wayzata, Minnesota",MN
+West Palm Beach,United States,USA,"West Palm Beach, Florida",FL
+Greenville,United States,USA,"Greenville, NC",NC
+Ferros,Brazil,BRA,"Ferros, Minas Gerais",MG
+Tempe,United States,USA,"Tempe, AZ",AZ
+São Paulo,Brazil,BRA,"Sao Paulo, SP",SP
+Samambaia,Brazil,BRA,"Samambaia, DF",DF
+Modena,Italy,ITA,"Modena, Modena",MO
+Castro,Brazil,BRA,"Castro, Paraná",PR
+Deerfield,United States,USA,"Deerfield, IL",IL
+Jaragua do Sul,Brazil,BRA,"Jaraguá do Sul, Santa Catarina",SC
+Lisbon,Portugal,PRT,"Lisbon, Parque das Nações",LI
+Munich,Germany,DEU,"München, Germany",BY
+Ewing,United States,USA,"Ewing, NJ",NJ
+St. Louis,United States,USA,"Saint Louis, MO",MO
+Conway,United States,USA,"Conway, AR",AR
+Winter Haven,United States,USA,"Winter Haven, Florida",FL
+Muscatine,United States,USA,"Muscatine, Iowa",IA
+Avon Park,United States,USA,"Avon Park, FL",FL
+Geneva,Switzerland,CHE,"Geneva, Geneva",GE
+Paranaguá,Brazil,BRA,"Paranaguá, Paraná",PR
+Greenwood Village,United States,USA,"Greenwood Village, CO",CO
+Monroe,United States,USA,"Monroe, LA",LA
+Sao Jose do Rio Preto,Brazil,BRA,"São José do Rio Preto, SP",SP
+Pinhais,Brazil,BRA,"Pinhais, Paraná",PR
+Recife,Brazil,BRA,"Recife, PE",PE
+Montreal,Canada,CAN,"Montreal, Quebec",QC
+Harrod,United States,USA,"Harrod, Ohio",OH
+Huntersville,United States,USA,"Huntersville, North Carolina",NC
+Stamford,United States,USA,"Stamford, CT",CT
+Miami Gardens,United States,USA,"Miami Gardens, FL",FL
+San Ramon,United States,USA,"San Ramon, CA",CA
+Étoy,Switzerland,CHE,"Étoy, Vaud",VD
+Irving,United States,USA,"IRVING, Texas",TX
+Bloomfield,United States,USA,"Bloomfield, CT",CT
+Sao Jose dos Pinhais,Brazil,BRA,"São José dos Pinhais, Paraná",PR
+Salvador,Brazil,BRA,"Salvador, Bahia",BA
+Hanover,United States,USA,"Hanover, Maryland",MD
+Santiago,Chile,CHL,"Santiago, RM",RM
+Frankfurt,Germany,DEU,"Frankfurt am Main, Hesse",HE
+San Juan,,,"Hato Rey, Puerto Rico",
+Providence,United States,USA,"Providence, Rhode Island",RI
+Tallahassee,United States,USA,"Tallahassee, FL",FL
+Eugene,United States,USA,"Eugene, OR",OR
+Deerfield Beach,United States,USA,"Deerfield Beach, Florida",FL
+Sunnyvale,United States,USA,"Sunnyvale, CA",CA
+Pinhais,Brazil,BRA,"Pinhais, Pr",PR
+Leeds,United Kingdom,GBR,"Leeds, West Yorkshire",
+Vancouver,Canada,CAN,"Vancouver, British Columbia",BC
+Hawley,United States,USA,"Hawley, Pennsylvania",PA
+Clemson,United States,USA,"Clemson, SC",SC
+Taunton,United Kingdom,GBR,"Taunton, Somerset",
+St. Catharines,Canada,CAN,"St. Catharines, Ontario",ON
+Tankerness,United Kingdom,GBR,"Tankerness, ORKNEY",
+Neuilly-sur-Seine,France,FRA,"Neuilly-sur-Seine, Île-de-France",HD
+Americana,Brazil,BRA,"Americana, São Paulo,",SP
+Rancho Cucamonga,United States,USA,"Rancho Cucamonga, CA",CA
+Campo Mourão,Brazil,BRA,"Campo Mourão, PR",PR
+Mogi das Cruzes,Brazil,BRA,"Mogi das Cruzes, São Paulo",SP
+Farmington,United States,USA,"Farmington, Utah",UT
+Natick,United States,USA,"Natick, MA",MA
+Teaneck,United States,USA,"Teaneck, New Jersey",NJ
+,,,NF,
+Norman,United States,USA,"Norman, Oklahoma",OK
+Frankfurt,Germany,DEU,"Frankfurt am Main, Hessen",HE
+Hickory,United States,USA,"Hickory, North Carolina",NC
+Indianapolis,United States,USA,"Indianapolis, IN",IN
+Foz do Iguacu,Brazil,BRA,"Foz do Iguaçu , Paraná",PR
+Curitiba,Brazil,BRA,"CURITIBA, PARANA",PR
+Florham Park,United States,USA,"Florham Park, New Jersey",NJ
+Sydney,Australia,AUS,"sydney, nsw",NSW
+,,,"Camden, New Jersey",
+North Haven,United States,USA,"North Haven, CT",CT
+Guadalajara,Mexico,MEX,"Ladrón de Guevara, Jalisco",JAL
+Sao Jose dos Campos,Brazil,BRA,"São José dos Campos, SP",SP
+Recife,Brazil,BRA,"Recife, Pernambuco",PE
+Schenectady,United States,USA,"Schenectady, NY",NY
+Bloomington,United States,USA,"Bloomington, Minnesota",MN
+Trumbull,United States,USA,"Trumbull, Connecticut",CT
+Amsterdam,Netherlands,NLD,"Amsterdam, Noord-Holland",NH
+Cedar Park,United States,USA,"Cedar Park, Texas",TX
+Irving,United States,USA,"Irving, Texas",TX
+Bloomington,United States,USA,"Bloomington, IL",IL
+Milton Keynes,United Kingdom,GBR,"Milton Keynes, Buckinghamshire",
+Taubate,Brazil,BRA,"Taubaté, São Paulo",SP
+São Paulo,Brazil,BRA,"São Paulo , SP",SP
+Montrouge,France,FRA,"Montrouge, -",HD
+Abingdon on Thames,United Kingdom,GBR,"Abingdon, Oxon",
+New Bremen,United States,USA,"New Bremen, OH",OH
+Morristown,United States,USA,"Morristown, New Jersey",NJ
+,,,"São José  , Santa Catarina",
+Walnut Creek,United States,USA,"Walnut Creek, CA",CA
+Maringa,Brazil,BRA,"Maringa, Parana",PR
+São Félix do Coribe,Brazil,BRA,"São Félix do Coribe, Bahia",BA
+Fairfax,United States,USA,"Fairfax, VA",VA
+Woonsocket,United States,USA,"Woonsocket, RI",RI
+Duisburg,Germany,DEU,"Duisburg, Nordrhein-Westfalen",NW
+Ahmedabad,India,IND,"Ahmedabad, Gujarat",GJ
+Arlington,United States,USA,"Arlington, TX",TX
+San Ramon,United States,USA,"San Ramon, California",CA
+Dalton,United States,USA,"Dalton, ga",GA
+Rockville,United States,USA,"Rockville, Maryland",MD
+Brøndby,Denmark,DNK,"Brøndby, Copenhagen",HS
+Billericay,United Kingdom,GBR,"Billericay, Essex",
+Cascavel,Brazil,BRA,"Cascavel, PR",PR
+Blumenau,Brazil,BRA,"Blumenau, Santa Catarina",SC
+Ciudad del Este,Paraguay,PRY,"Ciudad del Este, Alto Parana",AA
+Huntsville,United States,USA,"Huntsville, Alabama",AL
+Brasilia,Brazil,BRA,"Brasilia, Distrito Federal",DF
+,Brazil,BRA,"Brasil, BR",
+Delhi,India,IND,"New Delhi, Delhi",DL
+Hopkinton,United States,USA,"Hopkinton, MA",MA
+Round Rock,United States,USA,"Round Rock, Texas",TX
+São Paulo,Brazil,BRA,"Sao Paulo, Sp",SP
+Roanoke,United States,USA,"Roanoke, Virginia",VA
+,Spain,ESP,"Valencia/València, Comunidad Valenciana / Comunitat Valenciana",VC
+Concord,United States,USA,"Concord, California",CA
+Kariya,Japan,JPN,"Kariya, Japan",AI
+Sunny Isles Beach,United States,USA,"Sunny Isles Beach, FL",FL
+Levis,Canada,CAN,"Lévis, Québec",QC
+Cologne,Germany,DEU,"Cologne,",NW
+Jundiai,Brazil,BRA,"Jundiaí, São Paulo",SP
+Curitiba,Brazil,BRA,"Curitiba - PR, PR",PR
+Novo Hamburgo,Brazil,BRA,"Novo Hamburgo, Rio Grande do Sul",RS
+North Canton,United States,USA,"North Canton, Ohio",OH
+Uruguaiana,Brazil,BRA,"Uruguaiana, Rio Grande do Sul",RS
+Riverwoods,United States,USA,"Riverwoods, IL",IL
+São Paulo,Brazil,BRA,"Sao Paulo, Sao Paulo",SP
+Kharkiv,Ukraine,UKR,"Kharkiv, Kharkiv",KK
+Mclean,United States,USA,"McLean, VA",VA
+Levallois-Perret,France,FRA,"Levallois-Perret, Île-de-France",HD
+Araquari,Brazil,BRA,"Araquari, Santa Catarina",SC
+Ann Arbor,United States,USA,"Ann Arbor, MI",MI
+Midland,United States,USA,"Midland, Michigan",MI
+Sao Jose dos Pinhais,Brazil,BRA,"São José dos Pinhais, PR",PR
+Volta Redonda,Brazil,BRA,"Volta Redonda, Rio de Janeiro",RJ
+Fort Mitchell,United States,USA,"Ft. Mitchell, KY",KY
+São Paulo,Brazil,BRA,"SP, São Paulo",SP
+Newport News,United States,USA,"Newport News, VA",VA
+Denham Springs,United States,USA,"Denham Springs, LA",LA
+Tysons Corner,United States,USA,"Tysons, VA",VA
+Porto Alegre,Brazil,BRA,"Porto Alegre, Rio Grande do Sul",RS
+Pasadena,United States,USA,"Pasadena, CA",CA
+Cascavel,Brazil,BRA,"Cascavel, Parana",PR
+Gates Mills,United States,USA,"Gates Mills, OH",OH
+Salvador,Brazil,BRA,"SALVADOR, BA",BA
+Santa Clara,United States,USA,"Santa Clara, California",CA
+Mountain View,United States,USA,"Mountain View, CA",CA
+Halifax,Canada,CAN,"Ripponden, Halifax",NS
+Magnolia,United States,USA,"Magnolia, Texas",TX
+Orlando,United States,USA,"Orlando, Florida",FL
+Istanbul,Turkey,TUR,"Istanbul, Beşiktaş",IB
+Ripley,United Kingdom,GBR,"Ripley, Derbyshire",
+Osasco,Brazil,BRA,"Osasco, Sao Paulo",SP
+Sandy Springs,United States,USA,"Sandy Springs, Georgia",GA
+Rio de Janeiro,Brazil,BRA,"Rio de Janeiro , RJ",RJ
+Des Moines,United States,USA,"Des Moines, IA",IA
+Vaughan,Canada,CAN,"Vaughan, Ontario",ON
+Colombo,Brazil,BRA,"Colombo, Paraná",PR
+St. Louis,United States,USA,"Saint Louis, Missouri",MO
+,United States,USA,"Newtown, PA",PA
+Dublin,United States,USA,"Dublin, OH",OH
+Mulgrave,Australia,AUS,"Mulgrave, Victoria",VIC
+Balneário Camboriú,Brazil,BRA,"Balneário Camboriú, SC",SC
+São Bento do Sul,Brazil,BRA,"São Bento do Sul , Santa Catarina",SC
+,Sweden,SWE,"Kista, Stockholm",ST
+Lyon,France,FRA,"LYON, Rhône-Alpes",RH
+Badalona,Spain,ESP,"BADALONA, Barcelona",CT
+Pozuelo,Spain,ESP,"Pozuelo de Alarcón, Madrid",MD
+Munich,Germany,DEU,"Munich, Bavaria",BY
+Campinas,Brazil,BRA,"Campinas, São Paulo",SP
+Sioux Falls,United States,USA,"Sioux Falls, SD",SD
+Warren Township,United States,USA,"Warren, New Jersey",NJ
+Madrid,Spain,ESP,"Madrid, Comunidad de Madrid",MD
+Bellingham,United States,USA,"Bellingham, WA",WA
+Barcelona,Spain,ESP,"Barcelona, Catalonia",CT
+Reading,United Kingdom,GBR,"Reading, England",
+,United Kingdom,GBR,"Edinburgh, Scotland",
+Konstanz,Germany,DEU,"Konstanz, Baden-Württemberg",BW
+Sussex,United States,USA,"Brighton, East Sussex",WI
+Boone,United States,USA,"Boone, Iowa",IA
+Mcpherson,United States,USA,"McPherson, Kansas",KS
+Newmarket,Canada,CAN,"Woodland Hills, CA",ON
+Sao Caetano do Sul,Brazil,BRA,"São Caetano do Sul, São Paulo",SP
+Nanterre,France,FRA,"Nanterre, Île-de-France",HD
+Washington Court House,United States,USA,"Washington Court House, Ohio",OH
+New York,United States,USA,"Rego Park, NY",NY
+Florianopolis,Brazil,BRA,"Florianópolis, SC",SC
+Groveton,United States,USA,"Groveton, Alexandria",VA
+London,United Kingdom,GBR,"Stratford, London",
+Beirut,Lebanon,LBN,"Beirut, Beirut",BA
+Palmyra,United States,USA,"Palmyra, VA",VA
+Abu Dhabi,United Arab Emirates,ARE,"Abu Dhabi, Abu Dhabi",AZ
+Killeen,United States,USA,"Killeen, Texas",TX
+Hillsboro,United States,USA,"Hillsboro, Oregon",OR
+,,,"San Juan, PR",
+Albany,United States,USA,"Albany, NY",NY
+Brookfield,United States,USA,"Brookfield, Wisconsin",WI
+Brookfield,United States,USA,"Brookfield, WI",WI
+Broomfield,United States,USA,"Broomfield, CO",CO
+Bonn,Germany,DEU,"Bonn, Nordrhein-Westfalen",NW
+Munich,Germany,DEU,"München-Flughafen, Bayern",BY
+Uniondale,United States,USA,"Uniondale, New York",NY
+Johnston,United States,USA,"Johnston, Rhode Island",RI
+Lincoln,United Kingdom,GBR,"Lincoln, Lincolnshire",
+Caxias do Sul,Brazil,BRA,"Caxias do Sul, RS",RS
+Southampton,United Kingdom,GBR,"Southampton, England",
+Dearborn,United States,USA,"Dearborn, Michigan",MI
+São Paulo,Brazil,BRA,"São Paulo, Sao Paulo",SP
+San Mateo,United States,USA,"San Mateo, California",CA
+Curitiba,Brazil,BRA,"CURITIBA, PR",PR
+San Mateo,United States,USA,"San Mateo, CA",CA
+Madrid,Spain,ESP,"Madrid, Madrid",MD
+Alamogordo,United States,USA,"Alamogordo, NM",NM
+Norwalk,United States,USA,"Norwalk, CT",CT
+Lausanne,Switzerland,CHE,"Lausanne, Vaud",VD
+Bowling Green,United States,USA,"Bowling Green, KY",KY
+Birmingham,United Kingdom,GBR,"West Midlands, Birmingham",
+Bedford,United Kingdom,GBR,"Bedford, Bedfordshire",
+Lancaster,United States,USA,"Lancaster, Pennsylvania",PA
+Nova Lima,Brazil,BRA,"Nova Lima, Minas Gerais",MG
+Dover,United States,USA,"Dover, Delaware",DE
+Rolling Meadows,United States,USA,"Rolling Meadows, IL",IL
