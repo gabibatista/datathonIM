@@ -1,0 +1,6 @@
+crawler:
+  site: 'https://www.linkedin.com/search/results/companies/?keywords='
+  steps:
+    - locator: 'first_result'
+      type: ''
+      value: ''

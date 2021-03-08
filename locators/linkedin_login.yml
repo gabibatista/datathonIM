@@ -1,0 +1,14 @@
+crawler:
+  site: 'https://www.linkedin.com/uas/login'
+  steps:
+    - locator: 'username'
+      type: 'class_name'
+      value: 'session_key'
+
+    - locator: 'password'
+      type: 'class_name'
+      value: 'session_password'
+
+    - locator: 'login_button'
+      type: 'class_name'
+      value: 'login__form_action_container'

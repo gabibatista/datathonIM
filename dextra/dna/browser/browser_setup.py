@@ -16,7 +16,7 @@ class BrowserSetup:
         '''
             Docstring
         '''
-        # profile = webdriver.FirefoxProfile(os.path.join(os.environ.get("HOME"), "profile", "db"))
+        #profile = webdriver.FirefoxProfile(os.path.join(os.environ.get("HOME"), "profile", "db"))
         profile = webdriver.FirefoxProfile(os.path.join(".profile", "db"))
         profile.set_preference("security.default_personal_cert", "Select Automatically")
         profile.accept_untrusted_certs = True
